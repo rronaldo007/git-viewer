@@ -1,0 +1,18 @@
+/* assets/style.css: Custom styles for the Git Viewer */
+
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+  }
+  
+  pre {
+    font-family: Consolas, monospace;
+    font-size: 0.9rem;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
+  h1, h2, h5 {
+    margin-top: 20px;
+  }
+  
